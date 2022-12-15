@@ -4,7 +4,7 @@
 - 🎓 Cursando Ciência da Computação na <a href="http://www.uesb.br/">UESB</a>
 - 🌱 Aprendendo mais sobre o desenvolvimento Front-End
 
-<div align="center">
+<div>
   <a href="https://github.com/devjonathanreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjonathanreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjonathanreis&layout=compact&langs_count=7&theme=dark"/>
