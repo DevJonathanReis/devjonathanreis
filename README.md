@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software
 - 🎓 Cursando Ciência da Computação na <a href="http://www.uesb.br/">UESB</a>
-- 🌱 Aprendendo mais sobre o desenvolvimento Front-End
+- 🌱 Aprendendo mais sobre o desenvolvimento Front-End e Back-End
 
 <div align="center">
   <a href="https://github.com/devjonathanreis">
